@@ -1,5 +1,5 @@
 # FCDNet-Dataset-and-Algorithm
-This repository contains the dataset and algorithm implementation used in our research on FCDNet, a lightweight detection model for thermal fires ."
+This repository contains the dataset and algorithm implementation used in our research on FCDNet, A Lightweight Network for Real-Time Wildfire Core Detection in Drone Thermal Imaging."
 
 ## Project Structure
 
