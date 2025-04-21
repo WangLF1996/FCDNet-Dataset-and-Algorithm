@@ -18,7 +18,7 @@ DOI: 10.1109/ACCESS.2025.3526974
 The base of code is built with [ultralytics](https://github.com/ultralytics/ultralytics).
 Thanks for the great implementations.
 
-##Citation
+## Citation
 @ARTICLE{10833645,
   author={Wang, Linfeng and Doukhi, Oualid and Lee, Deok Jin},
   journal={IEEE Access}, 
